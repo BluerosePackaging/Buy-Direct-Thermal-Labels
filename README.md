@@ -81,3 +81,19 @@ Companies that partner with experienced manufacturers benefit from label solutio
 Contact Bluerose Packaging today to discuss direct thermal label solutions designed for shipping operations, fulfillment centers, warehouse distribution, and transportation applications. We provide dependable support for businesses seeking high-quality labels, improved barcode performance, and reliable printing efficiency.
 
 Our team helps organizations select the right thermal labeling products to optimize package identification, improve logistics performance, and maintain efficient operations throughout the supply chain across Ontario California.
+
+### Service Areas for Packaging Industry
+
+| Tustin | Brea | Long Beach | Anaheim | Ontario |
+|--------|------|-------------|---------|----------|
+| Los Angeles | Fullerton | Chino | Gardena | Carson |
+| Wilmington | Santa Ana | Torrance | Irvine | Southern California |
+| Orange County | Riverside County | South Orange County | South Bay | — |
+
+### Our Services
+Shipping Labels
+Direct Thermal Labels
+Fanfold Direct Thermal Labels
+PMS Color Thermal Labels
+Scratch Resistant labels
+Smear Resistant labels
