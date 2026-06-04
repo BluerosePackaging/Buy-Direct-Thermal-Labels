@@ -91,9 +91,8 @@ Our team helps organizations select the right thermal labeling products to optim
 | Orange County | Riverside County | South Orange County | South Bay | — |
 
 ### Our Services
-Shipping Labels
-Direct Thermal Labels
-Fanfold Direct Thermal Labels
-PMS Color Thermal Labels
-Scratch Resistant labels
-Smear Resistant labels
+|                          |                        |                               |                          |
+| ------------------------ | ---------------------- | ----------------------------- | ------------------------ |
+| Shipping Labels          | Direct Thermal Labels  | Fanfold Direct Thermal Labels | PMS Color Thermal Labels |
+| Scratch Resistant Labels | Smear Resistant Labels |                               |                          |
+
