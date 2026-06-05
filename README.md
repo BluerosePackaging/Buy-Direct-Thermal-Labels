@@ -90,7 +90,7 @@ Our team helps organizations select the right thermal labeling products to optim
 | Wilmington | Santa Ana | Torrance | Irvine | Southern California |
 | Orange County | Riverside County | South Orange County | South Bay | — |
 
-### Our Services
+### Our Related products
 |                          |                        |                               |                          |
 | ------------------------ | ---------------------- | ----------------------------- | ------------------------ |
 | Shipping Labels          | Direct Thermal Labels  | Fanfold Direct Thermal Labels | PMS Color Thermal Labels |
